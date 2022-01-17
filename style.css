@@ -1,0 +1,240 @@
+.container {
+    border: black 5px solid;
+    width: 40%;
+    max-width: 500px;
+    line-height: 70%;
+}
+
+.servings {
+    display: flex;
+    border-bottom: black 15px solid;
+    justify-content: center;
+    margin: 10px;
+    flex-direction: column;
+}
+
+.servings-item {
+    display: flex;
+    justify-content: flex-start;
+}
+
+h1 {
+    color: black;
+    margin: 10px;
+}
+
+.index {
+    display: flex;
+    flex-direction: column;
+}
+
+.index-item {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.amounts {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: black 1px solid;
+    margin: 10px;
+}
+
+.amounts-item2 {
+    display: flex;
+}
+
+.amounts-item2 div {
+    margin-left: 20px;
+}
+
+.calories {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.calories-item2 {
+    display: flex;
+}
+
+.calories-item2 div {
+    margin-left: 20px;
+}
+
+hr {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.caloriesfat {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: black 5px solid;
+    margin: 10px;
+}
+
+.caloriesfat-item2 {
+    display: flex;
+}
+
+.caloriesfat-item2 div {
+    margin-left: 20px;
+}
+
+.index2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    font-size: 12px;
+    border-bottom: black 2px solid;
+    margin-left: 10px;
+}
+
+.fat {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.fatitems-2 {
+    display: flex;
+}
+
+.fatitems-2 div {
+    margin-left: 20px;
+}
+
+.saturfat {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 10px;
+    line-height: 10px;
+}
+
+.saturfat-items2 {
+    display: flex;
+}
+
+.saturfat-items2 div {
+    margin-left: 20px;
+}
+
+.transfat {
+    border-bottom: black 2px solid;
+}
+
+.trans {
+    margin-left: 30px;
+    line-height: 80%;
+}
+
+.line1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.iline2 {
+    display: flex;
+}
+
+.iline2 div {
+    margin-left: 20px;
+}
+
+.line2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.line22 {
+    display: flex;
+}
+
+.line22 div {
+    margin-left: 20px;
+}
+
+.line3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.line32 {
+    display: flex;
+}
+
+.line32 div {
+    margin-left: 20px;
+}
+
+.line4 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.line42 {
+    display: flex;
+}
+
+.line42 div {
+    margin-left: 20px;
+}
+
+.sugar {
+    margin-left: 10px;
+}
+
+.protein {
+    margin: 10px;
+    border-bottom: 5px black solid;
+}
+
+.vitamins {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.aa {
+    display: flex;
+}
+
+.aa div {
+    margin-left: 20px;
+}
+
+.bb {
+    display: flex;
+}
+
+.bb div {
+    margin-left: 20px;
+}
+
+.cc {
+    display: flex;
+}
+
+.cc div {
+    margin-left: 20px;
+}
+
+.dd {
+    display: flex;
+}
+
+.dd div {
+    margin-left: 20px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+}
